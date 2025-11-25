@@ -39,7 +39,14 @@ It includes data cleaning, exploration, visualization, and exporting insights.
 ---
 
 ## 📈 Output Screenshots
-(Add your graph screenshots here)
+
+<img width="691" height="543" alt="image" src="https://github.com/user-attachments/assets/b5280406-5f43-4a76-a17f-8909be87499e" />
+
+<img width="704" height="543" alt="image" src="https://github.com/user-attachments/assets/3bf30956-00e3-4f42-91e4-e8721fefa221" />
+
+<img width="717" height="484" alt="image" src="https://github.com/user-attachments/assets/a27790c0-fdd3-4e2d-a69f-7ee01a11fed2" />
+
+
 
 ---
 
