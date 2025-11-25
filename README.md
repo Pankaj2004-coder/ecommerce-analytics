@@ -51,6 +51,6 @@ It includes data cleaning, exploration, visualization, and exporting insights.
 ---
 
 ## 👤 Author
-**Pankaj Kumar**  
+**N Pankaj Kumar**  
 Data Analyst Enthusiast  
 
