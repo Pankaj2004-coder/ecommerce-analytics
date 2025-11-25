@@ -6,6 +6,17 @@ It includes data cleaning, exploration, visualization, and exporting insights.
 ---
 
 ## 📁 Project Structure
+ecommerce-analytics/
+│
+├── data/
+│ ├── raw_orders.csv
+│ └── clean_orders.csv
+│
+├── notebooks/
+│ └── 01_data_exploration.ipynb
+│
+└── README.md
+
 
 ---
 
