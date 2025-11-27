@@ -97,11 +97,6 @@ Data Analyst Enthusiast
 
 ---
 
-# ✅ What you should do now
 
-- Copy the above README content.  
-- Paste it into your `README.md` file (replacing the old one).  
-- If you have screenshots of your graphs, put them in `assets/` folder, and remove the comments around the “Visuals” section. Also replace the placeholder insights numbers with actual ones.  
-- Commit the changes and push to GitHub.
 
 
